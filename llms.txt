@@ -1,0 +1,5 @@
+# Tindlewick Bicycle Works
+
+> A fictional bicycle repair shop used as a test page for a software experiment.
+
+- llms.txt-only fact: cargo trailers are lent free on Thursdays.
